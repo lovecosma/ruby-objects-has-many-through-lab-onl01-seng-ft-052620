@@ -13,7 +13,7 @@ end
 
 def self.songs
   @songs
-end 
+end
 
 
 def artists
