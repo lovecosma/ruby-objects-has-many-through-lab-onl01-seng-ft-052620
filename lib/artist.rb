@@ -18,7 +18,7 @@ end
 def new_song(name, genre)
   @name = name
   @genre = genre
-  @new_song = Song.new(name, genre)
+  @new_song = Song.new(name, self, genre)
 
 end
 
