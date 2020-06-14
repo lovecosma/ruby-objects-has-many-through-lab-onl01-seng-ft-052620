@@ -15,8 +15,10 @@ def songs
 @songs
 end
 
-def new_song
-  
+def new_song(name, genre)
+  @name = name
+  @genre = genre
+
 end
 
 
