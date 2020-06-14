@@ -9,7 +9,7 @@ class Song
     @@all << self
   end
 
-def genre
+def genre(name, genre)
 
 end
 
