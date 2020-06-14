@@ -4,7 +4,7 @@ class Song
     @name = name
     @artist = artist
     @genre = genre
-    @genre.songs <<genre
+    @genre.songs << genre
     @artist.songs << self
   end
 
