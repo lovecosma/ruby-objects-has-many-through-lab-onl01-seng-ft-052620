@@ -6,7 +6,7 @@ class Song
     @name = name
     @artist = artist
     @genre = genre
-    @genre.songs << @genre
+    @genre.songs << self
     @artist.songs << self
     @@all << self
     binding.pry
