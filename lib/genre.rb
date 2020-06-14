@@ -12,7 +12,7 @@ def self.all
 end
 
 def artists
-  
+
 end
 
 end
