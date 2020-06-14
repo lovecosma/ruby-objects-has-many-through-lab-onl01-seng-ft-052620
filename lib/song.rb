@@ -10,5 +10,8 @@ class Song
     @@all << self
   end
 
+def genre 
+  
+end 
 
 end
