@@ -12,7 +12,7 @@ class Artist
     @@all
   end
 
-def songs(name, genre)
+def songs()
 @songs
 end
 
