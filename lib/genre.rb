@@ -3,7 +3,7 @@ class Genre
   @@artists = []
   def initialize(name)
     @name = name
-    @@genres << slef
+    @artist
   end
 
 end
