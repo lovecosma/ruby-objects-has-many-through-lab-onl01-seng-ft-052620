@@ -23,7 +23,7 @@ def new_song(name, genre)
 end
 
 def self.genres
-  @genres 
+  @genres
 end
 
 end
