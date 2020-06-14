@@ -23,7 +23,7 @@ def new_song(name, genre)
 end
 
 def genres
-  Genre.songs.select do |song|
+    select do |song|
     song.genre ==
 end
 
