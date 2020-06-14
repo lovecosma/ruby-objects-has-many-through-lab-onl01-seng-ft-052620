@@ -24,6 +24,6 @@ end
 
 def self.genres
   @genres 
-end 
+end
 
 end
