@@ -3,6 +3,7 @@ class Artist
   @@all = []
   def initialize(name)
     @name = name
+    @@all << elf
   end
 
   def self.all
