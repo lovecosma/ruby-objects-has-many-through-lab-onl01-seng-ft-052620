@@ -11,5 +11,8 @@ def self.all
   @@all
 end
 
+def artists
+  
+end
 
 end
