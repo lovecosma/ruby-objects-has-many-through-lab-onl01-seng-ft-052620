@@ -9,7 +9,6 @@ class Song
     @genre.songs << self
     @artist.songs << self
     @@all << self
-    binding.pry
   end
 
 def genre
