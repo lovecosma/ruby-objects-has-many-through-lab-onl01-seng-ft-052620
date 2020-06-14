@@ -23,8 +23,7 @@ def new_song(name, genre)
 end
 
 def genres
-    select do |song|
-    song.genre ==
+
 end
 
 end
