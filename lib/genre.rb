@@ -6,4 +6,7 @@ class Genre
     @songs = []
   end
 
+def self.all
+
+
 end
