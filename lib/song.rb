@@ -5,13 +5,12 @@ class Song
     @name = name
     @artist = artist
     @genre = genre
-    @genre.songs << self
     @artist.songs << self
     @@all << self
   end
 
 def genre
-  
+
 end
 
 end
