@@ -11,6 +11,10 @@ def self.all
   @@all
 end
 
+def self.songs
+end 
+
+
 def artists
 
 end
